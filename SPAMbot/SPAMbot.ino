@@ -1,5 +1,6 @@
 #include <Servo.h>
 #include "types.h"
+#include "map.h"
 
 // Change the mode for testing
 

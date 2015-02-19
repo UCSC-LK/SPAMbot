@@ -16,6 +16,7 @@
 extern int pathIndex;
 extern int path[NUM_NODES];
 extern int p[NUM_NODES];
+extern int available[NUM_NODES];
 
 
 extern Headings cur_heading;
