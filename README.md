@@ -28,3 +28,7 @@ Shabir     : shabir.tck@gmail.com
 Praneeth     : gnomez.grave@gmail.com
 Madura (Anushanga)     : Madura.x86@gmail.com
 Milan     : milanharindu.ucsc@gmail.com
+
+Visit the following link for the full updated documentation.
+
+https://docs.google.com/document/d/10o8Z-cw7VPhWjj2O9r8bFGVNF2Bobu37ml4c4lm89bA/
